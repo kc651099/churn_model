@@ -6,8 +6,8 @@ Churn model with different algorithms in Python
      | Accuracy | Precision | Recall | F1 | AUC
 -----|----------|-----------|--------|----|----
 Naive Bayes | 0.699 | 0.595 | 0.768 | 0.671 | 0.798
-Logistic Regression | 0.747 | 0.710 | 0.616 | 0.66 | 0.814
-Decision Tree | 0.74 | 0.696 | 0.621 | 0.656 | 0.79
+Logistic Regression | 0.747 | 0.710 | 0.616 | 0.660 | 0.814
+Decision Tree | 0.740 | 0.696 | 0.621 | 0.656 | 0.790
 Random Forest | 0.756 | 0.722 | 0.631 | 0.674 | 0.817
-XGBoost | 0.745 | 0.696 | 0.64 | 0.667 | 0.808
+XGBoost | 0.745 | 0.696 | 0.640 | 0.667 | 0.808
 Neural Net | 0.751 | 0.687 | 0.688 | 0.688 | 0.831
